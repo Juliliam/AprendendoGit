@@ -1,1 +1,3 @@
 # AprendendoGit
+
+# Eduzera paççô puraki :)
